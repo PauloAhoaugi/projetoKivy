@@ -51,3 +51,4 @@ class BannerVenda(GridLayout):
     def atualizar_rec(self, *args):
         self.rec.pos = self.pos
         self.rec.size = self.size
+    # comentário
